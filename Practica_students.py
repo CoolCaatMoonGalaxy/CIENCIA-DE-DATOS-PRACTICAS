@@ -30,10 +30,10 @@ print('Mean of grades:', grades.mean())
 study_hours = [10.0,11.5,9.0,16.0,9.25,1.0,11.5,9.0,8.5,14.5,15.5,
                13.75,9.0,8.0,15.5,8.0,9.0,6.0,10.0,12.0,12.5,12.0]
 
-# Create a 2D array (an array of arrays)
+# Crea un 2D array (un array de arrays)
 student_data = np.array([study_hours, grades])
 
-# display the array
+# display del array
 print(student_data)
 
 # Obtener la ruta de la carpeta Documentos del usuario
